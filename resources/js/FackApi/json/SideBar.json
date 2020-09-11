@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Main",
+    "is_heading": true,
+    "is_active": false,
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": ""
+  },
+  {
+    "title": "I G D",
+    "name": "igd.home",
+    "is_heading": false,
+    "is_active": false,
+    "link": "",
+    "class_name": "",
+    "is_icon_class": true,
+    "icon": "fa fa-plus-circle",
+    "children": [
+      {
+        "title": "Dashboard",
+        "name": "igd.dashboard",
+        "is_active": false,
+        "is_shown":false,
+        "link": {
+          "name": "igd.dashboard"
+        },
+        "class_name": "",
+        "is_icon_class": false,
+        "icon": ""
+      }
+    ]
+  }
+ 
+]
